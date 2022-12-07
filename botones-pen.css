@@ -1,0 +1,105 @@
+
+
+
+.btn 
+{background-color:hsl(227deg 12% 30%) ;
+color: white;
+font-size: 1em;
+outline: none;
+width: 140px;
+height: 55px;
+border-radius: 5px;
+border: none;
+font-weight: 900;}
+
+
+.btn1 
+{background-color: hsl(227deg 12% 30%);
+color: white;
+font-size: 1.2em;
+outline: none;
+width: 140px;
+height: 55px;
+border-radius: 5px;
+border: none;
+font-weight: 900;
+padding-right: 20px;}
+
+
+.btn2 
+{background-color: hsl(227deg 12% 30%);
+color: white;
+font-size: 1.2em;
+outline: none;
+width: 120px;
+height: 55px;
+border-radius: 5px;
+border: none;
+font-weight: 900;
+padding-right: 10px;}
+
+
+.btn3 
+{background-color: mediumseagreen;
+color: black;
+font-size: 2em;
+outline: none;
+width: 290px;
+height: 55px;
+border-radius: 5px;
+border: none;
+padding-right: 10px;
+font-weight: 700;}
+
+
+.btn4
+{background-color: black;
+color: white;
+font-size: 2em;
+outline: none;
+width: 220px;
+height: 55px;
+border-radius: 5px;
+border: none;
+padding-right: 10px;
+margin-left: 10px;}
+
+
+.btn5
+{background-color: hsl(227deg 12% 30%);
+color: white;
+font-size: 1em;
+outline: none;
+width: 327.5px;
+height: 45px;
+border-color: silver;
+border-left: none;}
+
+.btn6
+{background-color:hsl(227deg 12% 30%);
+color: white;
+font-size: 1em;
+outline: none;
+width: 327.5px;
+height: 45px;
+
+border-color: silver;}
+
+.btn7
+{background-color: hsl(227deg 12% 30%);
+color: white;
+font-size: 1em;
+outline: none;
+width: 340px;
+height: 45px;
+
+border-color: silver;}
+
+.btn8
+{background-color: hsl(227deg 12% 30%);
+color: white;
+font-size: 1em;
+outline: none;
+width: 340px;
+height: 45px;
+border-color: silver;}
